@@ -1,6 +1,6 @@
 const numArray = (numList, num) => {
-    
-    let filterArray =numList.filter(item => item % num == 0)
+
+    let filterArray = numList.filter(item => item % num == 0)
     return filterArray
 }
 

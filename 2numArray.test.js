@@ -1,6 +1,6 @@
 const numArray = require("./2numArray")
 
-test ('funcion que reciba una lista de numeros y un numero-recibe otro array con los numeros divisibles por el numero que le hemos pasado', () => {
+test ('funcion que reciba una lista de numeros y un numero', () => {
 
     const numList = [0,1,2,3,4,5,6,7,8,9,10]
 
@@ -17,7 +17,7 @@ test ('funcion que reciba una lista de numeros y un numero-recibe otro array con
                 console.log(i)
             }
         }
-        
+
         let numList1 = numList
         return numList1
     }
