@@ -13,6 +13,7 @@ KATAS jest test
 
 - Para los múltiplos de cinco, devuelva una string: `Buzz` en lugar del número
     
+<<<<<<< HEAD
 - Para números que son múltiplos de tres y cinco, devuelva una string: `FizzBuzz` en lugar del número
     
 - Por supuesto.. para números que no son múltiplos de tres y cinco, debe devolver el mismo numero.
@@ -29,3 +30,8 @@ KATAS jest test
 
 // Version 1. Using forIf
 // Version 2. Using filter command
+=======
+}
+
+https://ibb.co/KLJ68jj
+>>>>>>> 7b929a0eceed852fff2f6174e25ec95a1cf68d40
